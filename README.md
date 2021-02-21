@@ -8,8 +8,11 @@ This repository includes implementation of the following constructions in javasc
 3. Pietrzak's Interactive VDF
 4. Pietrzak's Non-Interactive VDF
 5. Randomness Beacon (Application of VDF)
-6. Wesolowski based CVDF
-7. Pietrzak based CVDF
+6. Wesolowski based UVDF
+7. Pietrzak based UVDF
+8. Wesolowski based CVDF
+9. Pietrzak based CVDF
+
 
 ## How to Build
 
@@ -29,4 +32,3 @@ This repository includes implementation of the following constructions in javasc
 4. Open "http://localhost:3000/" in the web-browser
 
 ## 
-
